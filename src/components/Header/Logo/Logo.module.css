@@ -1,0 +1,7 @@
+.logo {
+    height: 50px;
+    width: 50px;
+    background-image: url("../../../img/DC_Comics_logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

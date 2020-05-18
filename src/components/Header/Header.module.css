@@ -1,0 +1,16 @@
+.header{
+    height: 70px;
+    background: dodgerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login{
+    width: 100px;
+    height: 30px;
+    background: #a55d1e;
+    justify-content: center;
+    align-items: center;
+}
+
